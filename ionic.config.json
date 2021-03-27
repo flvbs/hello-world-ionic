@@ -1,0 +1,7 @@
+{
+  "name": "helloApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
